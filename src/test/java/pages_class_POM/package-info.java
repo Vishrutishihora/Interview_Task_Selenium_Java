@@ -1,0 +1,1 @@
+package pages_class_POM;
